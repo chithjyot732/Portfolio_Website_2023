@@ -1,0 +1,21 @@
+@media only screen and (max-width:1540px){
+  .navbar{
+    height: 35px;
+    margin-left: 0;
+    margin-right: 0;
+    background-color: rgb(132, 132, 146);
+    position: fixed;
+    top: 0;
+}
+  ul{
+    float: left;
+    list-style: none;
+    position: fixed;
+    display: block;
+    padding: 8px;
+   }
+   li{
+     margin-left: 20px;
+     font-size: 10px;
+   }
+}
