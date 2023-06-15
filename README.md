@@ -1,2 +1,1 @@
-# iamchithjyot.github.io
-My portfolio 2023
+Portfolio 2023
